@@ -1,0 +1,6 @@
+{
+  "name": "Retro Blox",
+  "description": "Nostalgic 3D platform parkour game featuring classic Roblox style, local and mock-online user database with email rewards, leaderboard system, and shop with cosmetic items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
